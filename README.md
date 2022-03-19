@@ -51,6 +51,8 @@
   <!-- [![](https://github-readme-stats.vercel.app/api/pin/?theme=discord_old_blurple&username=openacid&repo=slim)](https://github.com/openacid/slim) -->
   [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=slim)](https://github.com/openacid/slim)
 
+  [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=paxoskv)](https://github.com/openacid/paxoskv)
+
   [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=mmp3)](https://github.com/openacid/mmp3)
 
 
