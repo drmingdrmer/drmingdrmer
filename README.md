@@ -50,6 +50,8 @@
 
   [![](https://github-readme-stats.vercel.app/api/pin/?theme=discord_old_blurple&username=openacid&repo=slim)](https://github.com/openacid/slim)
 
+  [![](https://github-readme-stats.vercel.app/api/pin/?theme=discord_old_blurple&username=openacid&repo=mmp3)](https://github.com/openacid/mmp3)
+
 
 - ![](https://blog.openacid.com/assets/images/favicon/favicon-16x16.png) [blog.openacid.com](https://blog.openacid.com/)
 
