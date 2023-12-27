@@ -1,5 +1,7 @@
 # drmingdrmer
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/drmingdrmer/repos?time_range=one_year&group=other&theme=classic)](https://githubtrends.io)
+
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=drmingdrmer" alt="" />
 -->
