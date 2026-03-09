@@ -50,8 +50,6 @@ Distributed systems engineer. Author of [openraft](https://github.com/databendla
   - [Understanding Calvin: Fast Distributed Transactions](https://blog.openacid.com/algo/calvin/)
 
 
-![drmingdrmer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drmingdrmer&theme=github-compact)
-
 
 📫 [drdr.xp@gmail.com](mailto:drdr.xp@gmail.com) · [@drmingdrmer](https://twitter.com/drmingdrmer) · [@databendlabs](https://github.com/databendlabs)
 
