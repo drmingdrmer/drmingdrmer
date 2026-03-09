@@ -1,87 +1,58 @@
 # drmingdrmer
 
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/drmingdrmer/repos?time_range=one_year&group=other&theme=classic)](https://githubtrends.io) -->
-<!-- [![GitHub Trends SVG](https://camo.githubusercontent.com/18ff8186f178ff9f3a80871af67cd4b801bab7b058f800eedc8d513cba162d4b/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f64726d696e6764726d65722f7265706f733f74696d655f72616e67653d6f6e655f796561722667726f75703d6f74686572267468656d653d636c6173736963)](https://githubtrends.io) -->
+Distributed systems engineer. Author of [openraft](https://github.com/databendlabs/openraft). Building [databend](https://github.com/databendlabs/databend).
 
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?theme=graywhite&username=drmingdrmer" alt="" />
--->
+*Have a bit of fun with bits.*
 
-<!--
-![datafuselabs](https://avatars.githubusercontent.com/u/80994548?s=100&v=4)
-![openacid](https://avatars.githubusercontent.com/u/23625658?s=100&v=4) 
--->
-
-![](https://github-readme-stats.vercel.app/api?theme=vue&username=drmingdrmer)
+**GitHub Stats** · ⭐ 1.1k stars · 🔀 2.8k PRs · 📦 271 repos · 👥 1.4k followers
 
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=openacid&repo=celeritasdb)](https://github.com/anuraghazra/github-readme-stats)
--->
+- 🦀 **Rust** · Currently working on:
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drmingdrmer&langs_count=10&hide=javascript,html,vim%20script,php)](https://github.com/anuraghazra/github-readme-stats)
--->
+  - [**databendlabs/databend**](https://github.com/databendlabs/databend) — Data Agent Ready Warehouse: One for Analytics, Search, AI, Python Sandbox. ⭐ 9.2k 🍴 855 `Rust`
+
+  - [**databendlabs/openraft**](https://github.com/databendlabs/openraft) — Rust Raft with improvements. ⭐ 1.8k 🍴 196 `Rust`
 
 
-  
+- 📐 **Distributed Consensus Research**
+
+  - [**drmingdrmer/consensus-essence**](https://github.com/drmingdrmer/consensus-essence) — Distributed consensus protocol's bugs, flaws, deceptive traps, and improvements. ⭐ 122 🍴 6
 
 
-- 🦀 **rust** developer; Currently working on: 
+- ✔️ **Go** · Author of:
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=datafuselabs&repo=databend)](https://github.com/datafuselabs/databend)
+  - [**openacid/slim**](https://github.com/openacid/slim) — Surprisingly space efficient trie in Golang (11 bits/key; 100 ns/get). ⭐ 1.9k 🍴 101 `Go`
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=datafuse-extras&repo=async-raft)](https://github.com/datafuse-extras/async-raft)
-
-<!--
-- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=datafuselabs&repo=databend" alt="" />
-
-- x <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=datafuse-extras&repo=async-raft" alt="" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?theme=discord_old_blurple&username=openacid&repo=slim" alt="" />
--->
+  - [**openacid/paxoskv**](https://github.com/openacid/paxoskv) — Naive and basic impl of a kv-storage based on Paxos. ⭐ 243 🍴 33 `Go`
 
 
+- 📝 **Blog** · [blog.openacid.com](https://blog.openacid.com/) — Distributed systems, consensus algorithms, and storage engine internals.
+
+  Popular:
+  - [An Intuitive Explanation of Paxos](https://blog.openacid.com/algo/paxos/)
+      <br/>
+    Traces the evolution from simple replication to quorum-based consistency, deriving Paxos step by step with visual examples. Covers Multi-Paxos and Fast-Paxos optimizations.
+  - [Implement a KV Store with Paxos in 200 Lines](https://blog.openacid.com/algo/paxoskv/)
+    <br/>
+    Builds a working distributed KV store in Go from scratch using Paxos, with protobuf and gRPC. Walks through the two-phase protocol, quorum reads, and conflict resolution.
+  - [Unifying Paxos, Raft and 2PC: abstract-paxos](https://blog.openacid.com/algo/abstract-paxos/)
+    <br/>
+    Derives Paxos and Raft from first principles, showing they are specialized variants of the same abstract consensus framework. Starts from "information eliminates uncertainty" and arrives at both algorithms.
+  - [Erasure Code Explained](https://blog.openacid.com/storage/ec-1/)
+    <br/>
+    Explains how erasure coding achieves multi-replica reliability at a fraction of the storage cost. Walks through the math from polynomial equations and Vandermonde matrices to the general k+m recovery scheme.
+
+  Recent:
+  - [Raft Node Rejoin Bug](https://blog.openacid.com/algo/raft-rejoin-bug/)
+  - [Raft Configuration Change with Single Log Entry](https://blog.openacid.com/algo/single-log-joint/)
+  - [The Hidden Danger in Raft: Why IO Ordering Matters](https://blog.openacid.com/algo/raft-io-order/)
+  - [Paxos Ballot Number Reuse](https://blog.openacid.com/algo/paxos-same-ballot/)
+  - [Understanding Calvin: Fast Distributed Transactions](https://blog.openacid.com/algo/calvin/)
 
 
-
-- ✔️ **golang** developer; Author of: 
-
-  <!-- [![](https://github-readme-stats.vercel.app/api/pin/?theme=discord_old_blurple&username=openacid&repo=slim)](https://github.com/openacid/slim) -->
-  [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=slim)](https://github.com/openacid/slim)
-
-  [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=paxoskv)](https://github.com/openacid/paxoskv)
-
-  [![](https://github-readme-stats.vercel.app/api/pin/?theme=react&username=openacid&repo=mmp3)](https://github.com/openacid/mmp3)
+![drmingdrmer's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drmingdrmer&theme=github-compact)
 
 
-- ![](https://blog.openacid.com/assets/images/favicon/favicon-16x16.png) [blog.openacid.com](https://blog.openacid.com/)
-
-<!--
-- 🐙 Research on distributed consensus algorithm: 
-
-- 🌱 Tutuorial:
-
-- ✏️ Skeches 
--->
-
-<!--
-
-- I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I'm currently a Leaders for Global Operation Fellow at MIT pursuing a dual degree MBA and Masters in Civil and Environmental Engineering. Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
-
-- 📱  I’m currently working on We Read Too.
-- 🤓  Continually learning SwiftUI.
-- 💬  Ask me about iOS development, Swift, accessibility.
-- 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
-- 😄  Pronouns: she/her
-- 🚴🏽‍♀️  Fun fact: I love cycling, I've done a century ride of 108 miles from Oakland to Sacramento and completed 2 triathlons.
--->
-
-<!--
-emoji list:
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#animals--nature
-theme list:
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
+📫 [drdr.xp@gmail.com](mailto:drdr.xp@gmail.com) · [@drmingdrmer](https://twitter.com/drmingdrmer) · [@databendlabs](https://github.com/databendlabs)
 
 ---
-
