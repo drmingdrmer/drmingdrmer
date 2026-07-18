@@ -4,26 +4,26 @@ Distributed systems engineer. Author of [openraft](https://github.com/databendla
 
 *Have a bit of fun with bits.*
 
-**GitHub Stats** · ⭐ 1.1k stars · 🔀 2.8k PRs · 📦 271 repos · 👥 1.4k followers
+**GitHub Stats** · ⭐ 1.1k stars · 🔀 3.3k PRs · 📦 284 repos · 👥 1.5k followers
 
 
 - 🦀 **Rust** · Currently working on:
 
-  - [**databendlabs/databend**](https://github.com/databendlabs/databend) — Data Agent Ready Warehouse: One for Analytics, Search, AI, Python Sandbox. ⭐ 9.2k 🍴 855 `Rust`
+  - [**databendlabs/databend**](https://github.com/databendlabs/databend) — Data Agent Ready Warehouse: One for Analytics, Search, AI, Python Sandbox. ⭐ 9.4k 🍴 892 `Rust`
 
-  - [**databendlabs/openraft**](https://github.com/databendlabs/openraft) — Rust Raft with improvements. ⭐ 1.8k 🍴 196 `Rust`
+  - [**databendlabs/openraft**](https://github.com/databendlabs/openraft) — Rust Raft with improvements. ⭐ 2.0k 🍴 221 `Rust`
 
 
 - 📐 **Distributed Consensus Research**
 
-  - [**drmingdrmer/consensus-essence**](https://github.com/drmingdrmer/consensus-essence) — Distributed consensus protocol's bugs, flaws, deceptive traps, and improvements. ⭐ 122 🍴 6
+  - [**drmingdrmer/consensus-essence**](https://github.com/drmingdrmer/consensus-essence) — Distributed consensus protocol's bugs, flaws, deceptive traps, and improvements. ⭐ 120 🍴 6
 
 
 - ✔️ **Go** · Author of:
 
-  - [**openacid/slim**](https://github.com/openacid/slim) — Surprisingly space efficient trie in Golang (11 bits/key; 100 ns/get). ⭐ 1.9k 🍴 101 `Go`
+  - [**openacid/slim**](https://github.com/openacid/slim) — Surprisingly space efficient trie in Golang (11 bits/key; 100 ns/get). ⭐ 1.9k 🍴 100 `Go`
 
-  - [**openacid/paxoskv**](https://github.com/openacid/paxoskv) — Naive and basic impl of a kv-storage based on Paxos. ⭐ 243 🍴 33 `Go`
+  - [**openacid/paxoskv**](https://github.com/openacid/paxoskv) — Naive and basic impl of a kv-storage based on Paxos. ⭐ 239 🍴 31 `Go`
 
 
 - 📝 **Blog** · [blog.openacid.com](https://blog.openacid.com/) — Distributed systems, consensus algorithms, and storage engine internals.
@@ -43,11 +43,10 @@ Distributed systems engineer. Author of [openraft](https://github.com/databendla
     Explains how erasure coding achieves multi-replica reliability at a fraction of the storage cost. Walks through the math from polynomial equations and Vandermonde matrices to the general k+m recovery scheme.
 
   Recent:
+  - [Histogram Done Right: 2KB Memory, 0.2% Error](https://blog.openacid.com/algo/histogram/)
   - [Raft Node Rejoin Bug](https://blog.openacid.com/algo/raft-rejoin-bug/)
   - [Raft Configuration Change with Single Log Entry](https://blog.openacid.com/algo/single-log-joint/)
   - [The Hidden Danger in Raft: Why IO Ordering Matters](https://blog.openacid.com/algo/raft-io-order/)
-  - [Paxos Ballot Number Reuse](https://blog.openacid.com/algo/paxos-same-ballot/)
-  - [Understanding Calvin: Fast Distributed Transactions](https://blog.openacid.com/algo/calvin/)
 
 
 
